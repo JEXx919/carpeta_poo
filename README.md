@@ -11,4 +11,3 @@
 # Actividad 2
 - programa 3
 - programa 4
-- vean la cada de la diarrea
