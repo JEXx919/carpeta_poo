@@ -9,12 +9,12 @@ public class p02_AreaCirculo {
 
         System.out.println("\nCalculando el area de un circulo\n");
         System.out.print("Dame el radio: ");
-        radio = lradio.nextFloat();
+        radio = lradio.nextDouble(); // Cambiado a nextDouble()
 
         area = Math.PI * Math.pow(radio, 2);
 
         System.out.println("\nEl circulo de radio " + radio + " tiene un area de " + area);
 
-    }
-    
+        lradio.close(); 
+    }
 }
