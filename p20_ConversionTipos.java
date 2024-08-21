@@ -9,6 +9,7 @@ public class p20_ConversionTipos {
     System.out.print("\033[H\033[2J"); System.out.flush();
     System.out.println(String.format("Implicita de int a double : %d %f",var1,var2));
     System.out.println(String.format("Implicita de float a double : %f %f",var3,var4));
+    
     // Conversiones explicitas : de grande a pequeño
     long var5 = 1234567890123456L;
     int var6 = (int) var5;
