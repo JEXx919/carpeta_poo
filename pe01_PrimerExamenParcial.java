@@ -14,8 +14,6 @@ public class pe01_PrimerExamenParcial {
 
         System.out.print("\033[H\033[2J");
         System.out.flush();
-
-        
         System.out.println("-------------------------------------");
         System.out.println("Curso Programacion Avanzada");
         System.out.println("Sistema de INscripcciones");
