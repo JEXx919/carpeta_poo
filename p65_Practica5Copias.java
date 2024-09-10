@@ -18,7 +18,7 @@ public class p65_Practica5Copias {
 
         // Ciclo do-while para múltiples ventas
         do {
-            // Solicitar al usuario que copia nesesita
+            // Solicitar al usuario que copia
             System.out.print("Tipo de copia (C)arta $3, (O)ficio $4, (D)oble Of. $6? ");
             Tamaño = obj.next().toUpperCase().charAt(0);
 
