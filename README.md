@@ -59,9 +59,52 @@
 - p37_CalculoNotas
 - p38_AceptarEstudianteV2
 
-## prectica
+## practica
 - p39_Numeros1a100
 - p40_Numeros100a1
 - p41_ProcesaCalificaciones
 - p42_TablaMultiplicar
 - p43_ConteoNumeros
+
+## Actividad 8
+- p44_ParesAscendente
+- p45_ImparesDescendente.
+- p46_TablaConversio
+- p47_ConjeturaCollatz
+
+## Práctica 3
+- p48_ImparesDecendentes
+- p49_ParesDecendentes
+- p50_ConversionTemperaturas
+- p51_SerieFibonaci
+
+## Actividad 9 
+- p52_NumeroDe1aN
+- p53_NumerosNa1
+- p54_ArribaAbajo
+- p55_SumaParesImpares
+- p56_SumaPromedio
+
+## Actividad 10
+- p57_TablasMultiplicar
+- p58_Piramide
+- p59_FactorialNumeros
+- p60_SumaTerminos
+- 
+
+
+- p65_Practica5Copias
+
+- pe01_PrimerExamenParcial
+- PracticaCopias
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
