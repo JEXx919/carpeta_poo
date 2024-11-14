@@ -1,4 +1,4 @@
-package p146_HolaMundoGUI_V2;
+package p145_EstudianteGUI_V2;
 
 import java.util.ArrayList;
 import javax.swing.*;
