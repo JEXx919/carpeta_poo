@@ -1,10 +1,9 @@
-package p145_EstudianteGUI_V2;
+package p146_EstudianteGUI_V2;
 
 import java.util.ArrayList;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.table.DefaultTableModel;
-
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Font;

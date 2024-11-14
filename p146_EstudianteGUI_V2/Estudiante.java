@@ -1,4 +1,4 @@
-package p145_EstudianteGUI_V2;
+package p146_EstudianteGUI_V2;
 
 import java.io.Serializable;
 
